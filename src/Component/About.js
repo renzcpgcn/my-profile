@@ -8,7 +8,7 @@ const About = () => {
                 a 3rd year student taking Bachelor of Science in Computer Science program
                 at University of Cabuyao. I love to draw portraits using different mediums. I would like to
                 design web application and apply my passion in arts in this field. As I continue learning,
-                I want to apply my skills to design and develop solutions that are both funtional and beautif
+                I want to apply my skills to design and develop solutions that are both funtional and beautiful.
             </p>
         </div>
     );
