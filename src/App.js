@@ -15,7 +15,7 @@ const App = () => {
     <Router>
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
             <div className="container">
-                <Link className="navbar-brand" to="/">Renz Capagcuan</Link>
+                <Link className="navbar-brand" to="/">Renz</Link>
                 <div className="collapse navbar-collapse">
                     <ul className="navbar-nav me-auto">
                         <li className="nav-item">
